@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Show Image</h1>
+  <form method="post" enctype="multipart/form-data" action="/plot/">
+	{% csrf_token %}
+	<a href="{% url 'view_plot' %}"><button type="submit" class="button" value="Display Image" >Display Image</button></a>
+   </form>
+	
+{% endblock %}
