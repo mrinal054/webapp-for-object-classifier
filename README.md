@@ -13,17 +13,17 @@ the `media` folder. The webapp then processes it and predicts its class.
 
 Here is an overview of the webapp - 
 
-![Sc1](Screenshots/sc1.jpg)
+![Sc1](mysite/Screenshots/sc1.jpg)
 
 User can upload an image through the `Upload` tab.
 
-![Sc2](Screenshots/sc2.jpg)
+![Sc2](mysite/Screenshots/sc2.jpg)
 
 Finally, the output can be viewed from the `Output` tab.
 
-![Sc3](Screenshots/sc3.jpg)
+![Sc3](mysite/Screenshots/sc3.jpg)
 
-![Sc4](Screenshots/sc4.jpg)
+![Sc4](mysite/Screenshots/sc4.jpg)
 
 #### How to run
 
